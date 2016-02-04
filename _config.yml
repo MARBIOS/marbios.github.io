@@ -1,2 +1,3 @@
 name: Marine Bioinformatics Service
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
